@@ -2,7 +2,6 @@
 let productImg = document.getElementById("productImg");
 let btn = document.getElementsByClassName("btn");
 
-
 btn[0].onclick = function(){
     productImg.src = "image1.png";
     for(bt of btn){
