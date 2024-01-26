@@ -43,7 +43,6 @@
     box-shadow: -10px 5px 10px 10px rgba(0,0,0,0.1);
     font-size: 13px;
     color: #777;
-
 }
 
 .details h1{
@@ -172,6 +171,7 @@ form button{
     bottom: 40px;
     right: 20px;
 }
+
 .btn{
     display: block;
     width: 10px;
